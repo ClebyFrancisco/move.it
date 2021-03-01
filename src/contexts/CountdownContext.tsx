@@ -45,7 +45,7 @@ export function CountdownProvider({ children }:CountdownProviderProps){
         if (isActive && time > 0){
             CountdownTimeOut = setTimeout(() => {
                 setTime(time - 1);
-            }, 1)
+            }, 1000)
         } else if( isActive && time == 0){
             setHasfinished(true);
             setIsActive(false);
