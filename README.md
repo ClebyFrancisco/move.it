@@ -1,7 +1,7 @@
 # Move.it
 
 
-<img align="right" src=".github/icon.svg" width="35%" alt="Move.it">
+<img align="right" src="./public/icon.svg" width="35%" alt="Move.it">
 
 ## Tópicos 
 
@@ -23,14 +23,14 @@ O Move.it é um App que utiliza a técnica de [pomodoro](https://pt.wikipedia.or
 
 <p align="center">
   <a href="https://www.figma.com/file/n9J6604nMGB7Cgt2vEVtWb/Move.it-1.0-Dark-Mode">
-    <img alt="Figma" src="./public/temp.jpg"/>
+    <img alt="inicial" src="./public/temp.jpg"/>
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src=".github/cover.png" alt="Página inicial">
+  <img src="./public/temp1.jpg" alt="Página inicial">
 </p>
 
 ## Tecnologias
@@ -55,7 +55,7 @@ git clone https://github.com/ClebyFrancisco/move.it.git
 # ou use a opção de download.
 
 # Entre na pasta do projeto com 
-cd moveIt
+cd move.it
 
 # Instale as dependências
 yarn install
